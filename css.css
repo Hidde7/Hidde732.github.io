@@ -1,0 +1,102 @@
+body.achtergrond1 { 
+background-image: url(hockeysticks);
+background-size: 130%;
+background-repeat: no-repeat;
+background-position: middle;
+
+}
+
+body.achtergrond2 {
+background-image: url(waterveld.jpg);
+background-size: 130%;
+background-repeat: no-repeat;
+background-position: middle;
+
+}
+body.achtergrond3 { 
+background-image: url(zandveld-hockey2.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: middle;
+
+}
+body.achtergrond4 { 
+background-image: url(semi-hockeyveld2.jpg);
+background-size: 130%;
+background-repeat: no-repeat;
+background-position: top center;
+
+}
+body.achtergrond5 {
+background-image: url(zaalhockey2.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: middle;
+}
+* {
+ padding: 0;
+ margin: 0;
+ font-family: Trebuchet MS;
+}
+ 
+.menu {
+ margin: 5px;
+ padding: 5px;
+ border: 1px white;
+ background-color: #transparant;
+ text-align: center;
+}
+ 
+.menu ul li {
+ display: inline;
+ padding: 0 5px;
+ width: 40px;
+}
+ 
+.menu ul li a, a:link, a:visited, a:active {
+ color: #FFF;
+ text-decoration: none;
+ font-weight: bold;
+}
+ 
+.menu ul li a:hover {
+ color: #FFF;
+ border-bottom: 3px solid #FFF;
+}
+
+* {
+ padding: 0;
+ margin: 0;
+ font-family: Trebuchet MS;
+}
+ 
+.menu2 {
+ margin: 5px;
+ padding: 5px;
+ border: 1px white;
+ background-color: #transparant;
+ text-align: left;
+}
+ 
+.menu2 ul li {
+ display: ;
+ padding: 0 5px;
+ width: px;
+}
+ 
+.menu2 ul li a, a:link, a:visited, a:active {
+ color: #transparant;
+ text-decoration: none;
+ font-weight: bold;
+}
+ 
+.menu2 ul li a:hover {
+ color: #FFF;
+ border-bottom: 3px solid #FFF;
+}
+.myVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index:-1;
+}
